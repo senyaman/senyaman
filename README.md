@@ -2,7 +2,7 @@
 <hr>
 <h4 align="center">A passionate Web and Mobile Application developer. I'm currently seeking an Entry-Level Dev Role.🇿🇦</h4>
 <ul>
-  <li>📍I'm based in South Africa</li>
+  <li>📍I'm based in South Africa🇿🇦</li>
   <li>📧Reach out: <a href="">giftmasenya@yahoo.com</a></li>
 </ul>
 

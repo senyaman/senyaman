@@ -4,7 +4,7 @@
 <p align="center">Core Java, HTML5, CSS3, Dart, Flutter, SQL, PL/SQL<p>
 <ul>
   <li>📍I'm based in South Africa🇿🇦</li>
-  <li>📧Reach out: <a href="">giftmasenya@yahoo.com</a></li>
+  <li>📬Reach out: <a href="">giftmasenya@yahoo.com</a></li>
 </ul>
 
 <h3>Skills⌨️</h3>

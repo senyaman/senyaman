@@ -5,6 +5,7 @@
 <ul>
   <li>📍I'm based in South Africa🇿🇦</li>
   <li>📬Reach out: <a href="">giftmasenya@yahoo.com</a></li>
+  <li>Portfolio website: <a href="">https://senyaman.github.io/my-portfolio/</a></li>
 </ul>
 
 <h3>Skills👨‍💻</h3>
